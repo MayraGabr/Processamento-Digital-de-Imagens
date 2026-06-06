@@ -1,1 +1,2 @@
 # Processamento-Digital-de-Imagens
+Esse trabalho propõe a melhoria de imagens agrícolas por meio de técnicas de manipulação de histograma. Foram aplicadas a equalização, a especificação de histograma e a equalização em regiões de interesse definidas por máscara. Para os experimentos, utilizou-se o dataset EuroSAT, composto por imagens do satélite Sentinel-2 organizadas em diferentes classes de uso do solo.
